@@ -1,0 +1,17 @@
+{
+    "name": "Translator Bot",
+    "description": "Telegram bot for translating text",
+    "author": "Amit",
+    "keywords": [
+        "translator Bot",
+        "google translator",
+        "translate"
+    ],
+    "repository": "https://github.com/amit-y11/translator_bot",
+    "env":{
+        "bot_token":{
+            "description":"Telegram bot token",
+            "required":"True"
+        }
+    }   
+}
